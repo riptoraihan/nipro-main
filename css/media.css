@@ -16,6 +16,28 @@
 .contact {
     padding: 20px 0;
 }
+/*search start*/
+.n_serch a {
+    padding: 0% 19px;
+}
+.cdm[data-bs-popper] {
+    left: 17px;
+    margin-top: -40px;
+}
+    .cdm {
+    min-width: 273px;
+    padding: 3px 6px 0 56px;
+}
+.s_input {
+    margin: 1px -45px;
+    width: 123%;
+    height: 34px;
+}
+    .s_btn {
+    height: 40px;
+}
+/*search end*/
+
 /*header end*/
 /* slider start */
 .sliderR .c-item{
